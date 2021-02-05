@@ -127,17 +127,17 @@ const Contact = () => {
           <p>Retrouvez moi sur les réseaux sociaux !</p>
           <ul className="rs">
             <li>
-              <a href="#" target="_blank">
+              <a href="https://fr-fr.facebook.com/WildCodeSchool/" target="_blank">
                 <FontAwesomeIcon icon={faFacebookF} />
               </a>
             </li>
             <li>
-              <a href="#" target="_blank">
+              <a href="https://github.com/guillaume45?tab=repositories" target="_blank">
                 <FontAwesomeIcon icon={faGithubAlt} />
               </a>
             </li>
             <li>
-              <a href="#" target="_blank">
+              <a href="https://www.linkedin.com/in/guillaume-couturier-3a569b14a" target="_blank">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
             </li>
