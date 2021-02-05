@@ -14,20 +14,20 @@ const App = () => {
       <Router>
         <Navbar />
         <div className="layout">
-        <Switch>
-          <Route path="/a-propos">
-          <Apropos/>
-        </Route>
-        <Route path="/projets">
-          <Projets/>
-        </Route>
-          <Route path="/contact">
-          <Contact/>
-        </Route>
-          <Route exact path="/">
-            <Home/>
-          </Route>
-        </Switch>
+          <Switch>
+            <Route path="/a-propos">
+              <Apropos />
+            </Route>
+            <Route path="/projets">
+              <Projets />
+            </Route>
+            <Route path="/contact">
+              <Contact />
+            </Route>
+            <Route exact path="/">
+              <Home />
+            </Route>
+          </Switch>
         </div>
       </Router>
     </div>

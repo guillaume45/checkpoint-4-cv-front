@@ -1,11 +1,9 @@
-
-
-.humour{
-    font-size:0.7em;
+.humour {
+    font-size: 0.7em;
     font-style: italic;
 }
 
-.apropos .content{
-    margin-top:100px;
+.apropos .content {
+    margin-top: 100px;
     line-height: 160%;
 }
